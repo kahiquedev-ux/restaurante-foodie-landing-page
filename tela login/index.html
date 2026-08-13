@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login and Registration Form</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrapper">
+    <span class="bg-animate"></span>
+    <span class="bg-animate2"></span>
+
+    <div class="form-box login">
+      <h2 class="animation" style="--i:0;">Login</h2>
+      <form action="login.php" method="post">
+        <div class="input-box animation" style="--i:1;">
+          <input type="email" name="email" required />
+          <label>Email</label>
+          <i class="bx bx-envelope"></i>
+        </div>
+        <div class="input-box animation" style="--i:2;">
+          <input type="password" name="senha" required />
+          <label>Password</label>
+          <i class="bx bx-lock-alt"></i>
+        </div>
+        <button type="submit" class="btn animation" style="--i:3;">Login</button>
+        <div class="logreg-link animation" style="--i:4;">
+          <p>Don't have an account? <a href="#" class="register-link">Sign Up</a></p>
+        </div>
+      </form>
+    </div>
+
+    <div class="info-text login">
+      <h2 class="animation" style="--i:0;">Welcome Back!</h2>
+      <p class="animation" style="--i:1;">Log in to access your account and continue where you left off.</p>
+    </div>
+
+    <div class="form-box register">
+      <h2 class="animation" style="--i:0;">Sign Up</h2>
+      <form action="register.php" method="post">
+        <div class="input-box animation" style="--i:1;">
+          <input type="text" name="nome" required />
+          <label>Username</label>
+          <i class="bx bx-user"></i>
+        </div>
+        <div class="input-box animation" style="--i:2;">
+          <input type="email" name="email" required />
+          <label>Email</label>
+          <i class='bx bx-envelope'></i>
+        </div>
+        <div class="input-box animation" style="--i:3;">
+          <input type="password" name="senha" required />
+          <label>Password</label>
+          <i class="bx bx-lock-alt"></i>
+        </div>
+        <button type="submit" class="btn animation" style="--i:4;">Sign Up</button>
+        <div class="logreg-link animation" style="--i:5;">
+          <p>Already have an account? <a href="#" class="login-link">Login</a></p>
+        </div>
+      </form>
+    </div>
+
+    <div class="info-text register">
+      <h2 class="animation" style="--i:0;">Welcome!</h2>
+      <p class="animation" style="--i:1;">Open your account today and make the most of our platform.</p>
+    </div>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>

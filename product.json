@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Hambúrguer Duplo de Carne",
+        "price": "R$ 50,28",
+        "image": "imagens/burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Pizza Vegetariana",
+        "price": "R$ 57,15",
+        "image": "imagens/pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "Frango Frito",
+        "price": "R$ 69,94",
+        "image": "imagens/fried-chicken.png"
+    },
+    {
+        "id": 4,
+        "name": "Rocambole de Frango",
+        "price": "R$ 39,00",
+        "image": "imagens/chicken-roll.png"
+    },
+    {
+        "id": 5,
+        "name": "Sanduíche Sub",
+        "price": "R$ 36,35",
+        "image": "imagens/sandwich.png"
+    },
+    {
+        "id": 6,
+        "name": "Lasanha de Frango",
+        "price": "R$ 85,54",
+        "image": "imagens/lasagna.png"
+    },
+    {
+        "id": 7,
+        "name": "Espaguete Italiano",
+        "price": "R$ 39,78",
+        "image": "imagens/spaghetti.png"
+    },
+    {
+        "id": 8,
+        "name": "Rolinho Primavera",
+        "price": "R$ 48,41",
+        "image": "imagens/spring-roll.png"
+    }
+]
