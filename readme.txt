@@ -210,10 +210,8 @@ Copyright: © 2026 - Todos os direitos reservados
 
 🔗 LINKS ÚTEIS
 --------------
-GitHub: https://github.com/seu-usuario/restaurante-foodie
-GitHub Pages: https://seu-usuario.github.io/restaurante-foodie
-Live Server: http://127.0.0.1:5500/
-Localhost: http://localhost:8000
+GitHub: https://github.com/kahiquedev-ux/restaurante-foodie-landing-page
+GitHub https://github.com/kahiquedev-ux/restaurante-foodie-landing-page
 
 📄 LICENÇA
 ----------
