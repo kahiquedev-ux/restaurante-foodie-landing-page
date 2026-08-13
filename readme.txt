@@ -212,6 +212,7 @@ Copyright: © 2026 - Todos os direitos reservados
 --------------
 GitHub: https://github.com/kahiquedev-ux/restaurante-foodie-landing-page
 GitHub https://github.com/kahiquedev-ux/restaurante-foodie-landing-page
+VERCEL: restaurante-foodie-landing-page-744ya6vb5.vercel.app
 
 📄 LICENÇA
 ----------
